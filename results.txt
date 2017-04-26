@@ -1,0 +1,57 @@
+This is the results of classifying for a windy day
+
+Accuracy of J48: 81.93%
+---------------------------------
+Accuracy of PART: 78.31%
+---------------------------------
+Accuracy of DecisionTable: 81.93%
+---------------------------------
+Accuracy of DecisionStump: 81.93%
+---------------------------------
+
+Correctly Classified Instances          68               81.9277 %
+Incorrectly Classified Instances        15               18.0723 %
+Kappa statistic                          0      
+Mean absolute error                      0.2966
+Root mean squared error                  0.3857
+Relative absolute error                 98.2441 %
+Root relative squared error             99.9852 %
+Total Number of Instances               83     
+
+
+---------------------------------
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+  0 15 |  a = TRUE
+  0 68 |  b = FALSE
+
+This is the results of classifying for daily outlook
+
+Accuracy of J48: 65.06%
+---------------------------------
+Accuracy of PART: 66.27%
+---------------------------------
+Accuracy of DecisionTable: 60.24%
+---------------------------------
+Accuracy of DecisionStump: 59.04%
+---------------------------------
+
+Correctly Classified Instances          52               62.6506 %
+Incorrectly Classified Instances        31               37.3494 %
+Kappa statistic                          0.3215
+Mean absolute error                      0.2861
+Root mean squared error                  0.4443
+Relative absolute error                 73.072  %
+Root relative squared error            100.6324 %
+Total Number of Instances               83     
+
+
+---------------------------------
+=== Confusion Matrix ===
+
+  a  b  c   <-- classified as
+ 32  3  7 |  a = sunny
+  7  0  2 |  b = cloudy
+ 12  0 20 |  c = rainy
+

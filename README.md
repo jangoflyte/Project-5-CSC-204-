@@ -9,6 +9,8 @@ Group members: Joshua Cohenour, Alexandria Carmichael, and Miguel Castro
 WEKA is a suite of Machine Learning software written in Java. Algorithms can be applied in to a dataset or using an original Java code.
 
 # Our Application of WEKA
-Josh wrote an algorithm for a weather application
+Josh wrote an algorithm for a weather application. In this case, the accuracy classifying for a windy day and daily outlook. 
 
 <img src = "https://icons.wxug.com/i/c/v4/chancerain.svg" width = "100">
+
+# The Java Application

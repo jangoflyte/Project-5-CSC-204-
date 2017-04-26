@@ -3,4 +3,6 @@ Group project on Machine Learning using WEKA (Walkato Environment for Knowledge 
 
 Group members:Joshua Cohenour, Alexandria Carmichael, and Miguel Castro
 
-https://yt3.ggpht.com/-r0rfW4taC6E/AAAAAAAAAAI/AAAAAAAAAAA/0H_3MNfAUzM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg
+https://camo.githubusercontent.com/3849f5d252153ee67f7b686c6fbcb0bcc42bc33e/68747470733a2f2f7974332e67677068742e636f6d2f2d72307266573474614336452f41414141414141414141492f41414141414141414141412f30485f334d4e6641557a4d2f733930302d632d6b2d6e6f2d6d6f2d726a2d6330786666666666662f70686f746f2e6a7067
+
+#What is WEKA?

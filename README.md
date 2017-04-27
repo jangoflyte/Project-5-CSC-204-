@@ -14,4 +14,8 @@ Josh wrote an algorithm for a weather application. In this case, the accuracy cl
 <img src = "https://icons.wxug.com/i/c/v4/chancerain.svg" width = "100">
 
 # The Java Application
+First and foremost, the Java code was run in a Java IDE (i.e. Eclipse), with the weka.jar imported in another seperate library.
+
 The class is named "Project5MachineLearning", which takes a text file named "weather.txt", and reads the contents of said text file. Note: make sure that the text file is located in the same directory as the .java file.
+
+Results...
